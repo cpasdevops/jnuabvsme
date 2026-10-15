@@ -1,0 +1,7 @@
+{
+  "name": "Marketing Analytics & AI Dataset Portal",
+  "description": "Dataset and prompt repository for marketing analytics, business intelligence, and coursework files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
