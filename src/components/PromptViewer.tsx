@@ -43,8 +43,8 @@ Page Structure:
   const activeSnippet = activeTab === 'claude' ? claudePromptSnippet : lovablePromptSnippet;
   const activeFileName = activeTab === 'claude' ? 'Claude_Dashboard_Prompt.docx' : 'Lovable_Prompt_Landing_Page_with_Google_Sheets.docx';
   const activeUrl = activeTab === 'claude' 
-    ? 'https://pocketacademy.live/dataset/Claude_Dashboard_Prompt.docx' 
-    : 'https://pocketacademy.live/dataset/Lovable_Prompt_Landing_Page_with_Google_Sheets.docx';
+    ? 'https://pocketacademy.live/dataset/jnuabvsme/Claude_Dashboard_Prompt.docx' 
+    : 'https://pocketacademy.live/dataset/jnuabvsme/Lovable_Prompt_Landing_Page_with_Google_Sheets.docx';
 
   const handleCopy = async () => {
     try {
